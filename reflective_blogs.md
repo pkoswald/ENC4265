@@ -24,21 +24,23 @@ This is a guide to set up the Nintendo Switch game console for the first time
 
 1.	First, take the Nintendo Switch console out of the box and attach the two Joy-Con controllers to the sides of it.
 ![Attach Joycon](/docs/assets/attachJoycon.jpg)
-*image_caption*
+*Figure #1: Attaching the Joy-Con controllers to the system.*
 3.	Turn the switch console on by pressing the power button on top of the system
  ![Switch Power button](/docs/assets/switchPower.jpg)
-4.	Using the controllers, choose your preferred language, and then choose your region.
-5.	Read the End-User License Agreement and choose to accept it.
-6.	If you wish to, choose your internet connection. If you do not want to do so right now, press the X button to do so later
-7.	Choose which Time Zone you wish to use
-8.	Choose to “Connect to The TV” later
-9.	Follow the given instructions to detach the Joy-Con using the button on the back of the controllers
- 
-10.	Choose to create a New User
-11.	Choose which profile image you would like to use
-12.	Enter a nickname for your user
-13.	Choose to link your Nintendo Account later
-14.	If an update is available, choose to update the system
-15.	Proceed through the following pages, then press the home button to complete system setup.
+*Figure #2: Pressing the power button on the console.*
+5.	Using the controllers, choose your preferred language, and then choose your region.
+6.	Read the End-User License Agreement and choose to accept it.
+7.	If you wish to, choose your internet connection. If you do not want to do so right now, press the X button to do so later
+8.	Choose which Time Zone you wish to use
+9.	Choose to “Connect to The TV” later
+10.	Follow the given instructions to detach the Joy-Con using the button on the back of the controllers
+![Switch Power button](/docs/assets/detatch.png)
+ *Figure #3: The button used to detatch the Joy-Con controllers.*
+11.	Choose to create a New User
+12.	Choose which profile image you would like to use
+13.	Enter a nickname for your user
+14.	Choose to link your Nintendo Account later
+15.	If an update is available, choose to update the system
+16.	Proceed through the following pages, then press the home button to complete system setup.
 
 (No AI was used in this assignment)
