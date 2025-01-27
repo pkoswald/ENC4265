@@ -23,7 +23,7 @@ Overall, it was very interesting to look back at such an old site. It was obviou
 This is a guide to set up the Nintendo Switch game console for the first time
 
 1.	First, take the Nintendo Switch console out of the box and attach the two Joy-Con ontrollers to the sides of it.
- 
+ ![Switch Power button](/least-github-pages/assets/switchPower.png)
 2.	Turn the switch console on by pressing the power button on top of the system
  
 3.	Using the controllers, choose your preferred language, and then choose your region.
