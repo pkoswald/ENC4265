@@ -24,20 +24,21 @@ This is a guide to set up the Nintendo Switch game console for the first time
 
 1.	First, take the Nintendo Switch console out of the box and attach the two Joy-Con controllers to the sides of it.
 ![Attach Joycon](/docs/assets/attachJoycon.jpg)
-2.	Turn the switch console on by pressing the power button on top of the system
+*image_caption*
+3.	Turn the switch console on by pressing the power button on top of the system
  ![Switch Power button](/docs/assets/switchPower.jpg)
-3.	Using the controllers, choose your preferred language, and then choose your region.
-4.	Read the End-User License Agreement and choose to accept it.
-5.	If you wish to, choose your internet connection. If you do not want to do so right now, press the X button to do so later
-6.	Choose which Time Zone you wish to use
-7.	Choose to “Connect to The TV” later
-8.	Follow the given instructions to detach the Joy-Con using the button on the back of the controllers
+4.	Using the controllers, choose your preferred language, and then choose your region.
+5.	Read the End-User License Agreement and choose to accept it.
+6.	If you wish to, choose your internet connection. If you do not want to do so right now, press the X button to do so later
+7.	Choose which Time Zone you wish to use
+8.	Choose to “Connect to The TV” later
+9.	Follow the given instructions to detach the Joy-Con using the button on the back of the controllers
  
-9.	Choose to create a New User
-10.	Choose which profile image you would like to use
-11.	Enter a nickname for your user
-12.	Choose to link your Nintendo Account later
-13.	If an update is available, choose to update the system
-14.	Proceed through the following pages, then press the home button to complete system setup.
+10.	Choose to create a New User
+11.	Choose which profile image you would like to use
+12.	Enter a nickname for your user
+13.	Choose to link your Nintendo Account later
+14.	If an update is available, choose to update the system
+15.	Proceed through the following pages, then press the home button to complete system setup.
 
 (No AI was used in this assignment)
