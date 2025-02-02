@@ -30,7 +30,7 @@ This is a guide to set up the Nintendo Switch game console for the first time
 4.	Turn the switch console on by pressing the **power button on top** of the system.
  ![Switch Power Button](/docs/assets/switchPower.jpg)
 *Figure #2: Pressing the power button on the console.*
-*(Image by [Tom's Guide]([https://www.nintendo.com/en-gb/Support/Nintendo-Switch/How-to-Attach-Detach-the-Joy-Con-Controllers-from-the-Nintendo-Switch-Console-1379043.html](https://www.tomsguide.com/us/nintendo-switch-not-turning-on,review-5737.html)))*
+*(Image by [Tom's Guide](https://www.tomsguide.com/us/nintendo-switch-not-turning-on,review-5737.html)*
 6.	Using the controllers, choose your **preferred language**
 7.	Choose the **region** where you live.
 8.	Read the End-User License Agreement and choose to **accept** it.
