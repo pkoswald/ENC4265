@@ -32,21 +32,21 @@ This is a guide to set up the Nintendo Switch game console for the first time
  ![Switch Power Button](/docs/assets/switchPower.jpg)
 *Figure #2: Pressing the power button on the console.*
 *(Image by [Tom's Guide](https://www.tomsguide.com/us/nintendo-switch-not-turning-on,review-5737.html))*
-6.	After the screen turns on, read the instructions on screen. Use the control stick on the left controller to move the cusor to an option and the A button on the right contoller to choose your **preferred language**
-7.	Read the instructions and screen and use the control sitck and A button in the same way as before to choose the **region** where you live.
-8.	Read the End-User License Agreement and use the control stick and A button to choose to **accept** it.
-9.	**If you wish to**, choose your internet connection using the control stick and A buton. If you do not want to do so right now, press the X button to do so **later**.
-10.	Use the control stick and A button to choose which **time zone** you wish to use.
-11.	Use the control stick and A button to choose to “Connect to The TV” **later**.
+6.	After the screen turns on, read the instructions on screen. Use the control stick on the left controller to move the cusor to an option and the A button on the right contoller to confirm your **preferred language**
+7.	Read the instructions and screen and use the control sitck and A button in the same way as before to confirm the **region** where you live.
+8.	Read the End-User License Agreement and use the control stick and A button to confirm your current selection and **accept** it.
+9.	**If you wish to**, choose your internet connection using the control stick and press the A buton to confirm it. If you do not want to do so right now, press the X button to do so **later**.
+10.	Use the control stick and A button to confirm which **time zone** you wish to use.
+11.	Use the control stick and A button to confirm **later** to “Connect to The TV”.
 12.	Follow the given instructions to **detach** the Joy-Con by pressing the small black button on the **back of the controllers** and pulling the controllers up from the console.
 ![Switch Detatch Controller](/docs/assets/detatch.png)
  *Figure #3: The button used to detatch the Joy-Con controllers.*
 *(Image by [Nintendo](https://www.nintendo.com/en-gb/Support/Nintendo-Switch/How-to-Attach-Detach-the-Joy-Con-Controllers-from-the-Nintendo-Switch-Console-1379043.html))*
-13.	Use the control stick and A button to choose to create a **New User**.
-14.	Use the control stick and A button to choose which **profile image** you would like to use.
+13.	Use the control stick and A button to confirm to create a **New User**.
+14.	Use the control stick and A button to confirm which **profile image** you would like to use.
 15.	Enter a **nickname** for your new user.
-16.	Use the control stick and A button to choose to link your Nintendo Account **later**.
-17.	If an update is available, use the control stick and A button to choose to **update** the system.
+16.	Use the control stick and A button to confirm **later** to link your Nintendo Account.
+17.	If an update is available, use the control stick and A button to confirm to **update** the system.
 18.	Use the control stick and A button to proceed through the following pages, then press the **home button** to complete system setup.
 
 (No AI was used in this assignment)
