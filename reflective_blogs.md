@@ -23,7 +23,8 @@ Overall, it was very interesting to look back at such an old site. It was obviou
 This is a guide to set up the Nintendo Switch game console for the first time
 
 1.	Take the Nintendo Switch console **out of the box**
-2.	**Attach** the two Joy-Con controllers to the sides of it.
+2.	**Attach** the left Joy-Con controller to the **left side of the console**. The left controller has a **minus symbol** at the top right of the controller. **Slide** the rail on the right side of the controller into the grove on the left side of the Switch console and **push** it down until you feel a **click** and the controller is firmly connected.
+3.	**Attach** the right Joy-Con controller to the right side of the console. The right controller has a **plus symbol** at the top left of the controller. **Slide** the rail on the left side of the controller into the grove on the right side of the Switch console and **push** it down until you feel a **click** and the controller is firmly connected.
 ![Attach Joycon](/docs/assets/attachJoycon.jpg)
 *Figure #1: Attaching the Joy-Con controllers to the system.*
 *(Image by [Nintendo](https://www.nintendo.com/en-gb/Support/Nintendo-Switch/How-to-Attach-Detach-the-Joy-Con-Controllers-from-the-Nintendo-Switch-Console-1379043.html))*
@@ -31,21 +32,21 @@ This is a guide to set up the Nintendo Switch game console for the first time
  ![Switch Power Button](/docs/assets/switchPower.jpg)
 *Figure #2: Pressing the power button on the console.*
 *(Image by [Tom's Guide](https://www.tomsguide.com/us/nintendo-switch-not-turning-on,review-5737.html))*
-6.	Using the controllers, choose your **preferred language**
-7.	Choose the **region** where you live.
-8.	Read the End-User License Agreement and choose to **accept** it.
-9.	**If you wish to**, choose your internet connection. If you do not want to do so right now, press the X button to do so **later**.
-10.	Choose which **time zone** you wish to use.
-11.	Choose to “Connect to The TV” **later**.
-12.	Follow the given instructions to **detach** the Joy-Con using the button on the **back of the controllers**.
+6.	After the screen turns on, read the instructions on screen. Use the control stick on the left controller to move the cusor to an option and the A button on the right contoller to choose your **preferred language**
+7.	Read the instructions and screen and use the control sitck and A button in the same way as before to choose the **region** where you live.
+8.	Read the End-User License Agreement and use the control stick and A button to choose to **accept** it.
+9.	**If you wish to**, choose your internet connection using the control stick and A buton. If you do not want to do so right now, press the X button to do so **later**.
+10.	Use the control stick and A button to choose which **time zone** you wish to use.
+11.	Use the control stick and A button to choose to “Connect to The TV” **later**.
+12.	Follow the given instructions to **detach** the Joy-Con by pressing the small black button on the **back of the controllers** and pulling the controllers up from the console.
 ![Switch Detatch Controller](/docs/assets/detatch.png)
  *Figure #3: The button used to detatch the Joy-Con controllers.*
 *(Image by [Nintendo](https://www.nintendo.com/en-gb/Support/Nintendo-Switch/How-to-Attach-Detach-the-Joy-Con-Controllers-from-the-Nintendo-Switch-Console-1379043.html))*
-13.	Choose to create a **New User**.
-14.	Choose which **profile image** you would like to use.
+13.	Use the control stick and A button to choose to create a **New User**.
+14.	Use the control stick and A button to choose which **profile image** you would like to use.
 15.	Enter a **nickname** for your new user.
-16.	Choose to link your Nintendo Account **later**.
-17.	If an update is available, choose to **update** the system.
-18.	Proceed through the following pages, then press the **home button** to complete system setup.
+16.	Use the control stick and A button to choose to link your Nintendo Account **later**.
+17.	If an update is available, use the control stick and A button to choose to **update** the system.
+18.	Use the control stick and A button to proceed through the following pages, then press the **home button** to complete system setup.
 
 (No AI was used in this assignment)
