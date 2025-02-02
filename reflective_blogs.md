@@ -26,23 +26,24 @@ This is a guide to set up the Nintendo Switch game console for the first time
 2.	**Attach** the two Joy-Con controllers to the sides of it.
 ![Attach Joycon](/docs/assets/attachJoycon.jpg)
 *Figure #1: Attaching the Joy-Con controllers to the system.*
-3.	Turn the switch console on by pressing the **power button on top** of the system.
+*(Image by [Nintendo](https://www.nintendo.com/en-gb/Support/Nintendo-Switch/How-to-Attach-Detach-the-Joy-Con-Controllers-from-the-Nintendo-Switch-Console-1379043.html))*
+4.	Turn the switch console on by pressing the **power button on top** of the system.
  ![Switch Power button](/docs/assets/switchPower.jpg)
 *Figure #2: Pressing the power button on the console.*
-4.	Using the controllers, choose your **preferred language**
-5.	Choose the **region** where you live.
-6.	Read the End-User License Agreement and choose to **accept** it.
-7.	**If you wish to**, choose your internet connection. If you do not want to do so right now, press the X button to do so **later**.
-8.	Choose which **time zone** you wish to use.
-9.	Choose to “Connect to The TV” **later**.
-10.	Follow the given instructions to **detach** the Joy-Con using the button on the **back of the controllers**.
+5.	Using the controllers, choose your **preferred language**
+6.	Choose the **region** where you live.
+7.	Read the End-User License Agreement and choose to **accept** it.
+8.	**If you wish to**, choose your internet connection. If you do not want to do so right now, press the X button to do so **later**.
+9.	Choose which **time zone** you wish to use.
+10.	Choose to “Connect to The TV” **later**.
+11.	Follow the given instructions to **detach** the Joy-Con using the button on the **back of the controllers**.
 ![Switch Power button](/docs/assets/detatch.png)
  *Figure #3: The button used to detatch the Joy-Con controllers.*
-11.	Choose to create a **New User**.
-12.	Choose which **profile image** you would like to use.
-13.	Enter a **nickname** for your new user.
-14.	Choose to link your Nintendo Account **later**.
-15.	If an update is available, choose to **update** the system.
-16.	Proceed through the following pages, then press the **home button** to complete system setup.
+12.	Choose to create a **New User**.
+13.	Choose which **profile image** you would like to use.
+14.	Enter a **nickname** for your new user.
+15.	Choose to link your Nintendo Account **later**.
+16.	If an update is available, choose to **update** the system.
+17.	Proceed through the following pages, then press the **home button** to complete system setup.
 
 (No AI was used in this assignment)
