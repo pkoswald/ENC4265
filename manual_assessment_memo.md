@@ -3,13 +3,9 @@
 # Manual Assessment Memo
 
 **MEMORANDUM**
-
 **TO:**
-
 **FROM:**
-
 **SUBJECT:**
-
 **DATE:**
 
 I evaluated the manual for a PRODUCT HERE
