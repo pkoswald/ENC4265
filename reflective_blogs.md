@@ -17,7 +17,7 @@ One of the more interesting aspects of the old internet I noticed here is the in
 
 Overall, it was very interesting to look back at such an old site. It was obviously very different from a modern website, but in a way, it also made me miss some of what was lost. I enjoyed seeing such a niche, personalized site instead of just a slightly customized page conforming to the design of the larger site it’s on. Individual websites existed in a much larger way than they do now, where most activity online is consolidated to a few select sites.
 
-(No AI was used in this assignment)
+AI Statement: No AI was used when in this assignment.
 
 # Quick Start Guide
 
@@ -50,7 +50,7 @@ This is a guide to set up the Nintendo Switch game console for the first time
 17.	If an update is available, use the control stick and A button to confirm to **update** the system.
 18.	Use the control stick and A button to proceed through the following pages, then press the **home button** to complete system setup.
 
-(No AI was used in this assignment)
+AI Statement: No AI was used when in this assignment.
 
 # Reflective Blog 3
 
@@ -58,3 +58,5 @@ This is a guide to set up the Nintendo Switch game console for the first time
 
 
 I chose to explore the FAQ page on the [GameStop website](https://www.gamestop.com/faq/). One of the first issues I noticed is that the first two groups of questions answered were all related to the GameStop Pro reward account. This gives the feeling that the FAQ page is just an advertisement for the service, since it answers those questions instead of any related to problems the customer may have. I also feel that the FAQ is missing many questions that customers would want answered. For example, the FAQ doesn't have any information on cancelling or changing an order after it has been placed. One of the strengths of the page is that it goes over how to redeem each type of virtual currency card available at the store, which could be a common problem for customers since they all require different platforms or websites to redeem them.
+
+AI Statement: No AI was used when in this assignment.
