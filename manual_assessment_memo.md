@@ -8,6 +8,6 @@
 **SUBJECT:**  
 **DATE:**  
 
-I evaluated the manual for a PRODUCT HERE
+I evaluated the manual for the Philips Airfryer XXL HD9656 available at <https://www.philips.com.au/c-p/HD9656_93/premium-airfryer-xxl/support>
 
 
