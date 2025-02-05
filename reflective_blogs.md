@@ -53,7 +53,7 @@ This is a guide to set up the Nintendo Switch game console for the first time
 
 # Reflective Blog 3
 
-## Prompt : Explore an online tutorial, manual, or reference guide/FAQ page. Give it an honest but professional assessment. Describe in your post the aspects of the page(s) that are effective, and explain why. Describe the aspects of the page(s) that are ineffective, and explain why. Keep a professional tone, as though you expect the author(s) of the page(s) to read your post. 
+### Prompt : Explore an online tutorial, manual, or reference guide/FAQ page. Give it an honest but professional assessment. Describe in your post the aspects of the page(s) that are effective, and explain why. Describe the aspects of the page(s) that are ineffective, and explain why. Keep a professional tone, as though you expect the author(s) of the page(s) to read your post. 
 
 
 I chose to explore the FAQ page on the G[ameStop website](https://www.gamestop.com/faq/). One of the first issues I noticed is that the first few questions answered were all related
