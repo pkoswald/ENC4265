@@ -66,11 +66,11 @@ AI Statement: No AI was used when in this assignment.
 
 ### Prompt : Use any generative AI to generate an assignment (or some other piece of writing) that you have already completed. Share the prompt you used, the results you received, and a brief analysis of the strengths and weaknesses of the software.
 
-For this reflective blog, I decided to use generative AI to generate Reflective Blog 2.
+For this reflective blog, I decided to use generative AI to generate Reflective Blog 3.
 
 Prompt given: Write an assessment of the Gamestop FAQ page (https://www.gamestop.com/faq/), discussing what its strengths and weaknesses are and why those parts are effective or ineffective.
 
-Generated response: The GameStop FAQ page provides a thorough, organized explanation of services and policies, particularly focusing on its Pro Membership.
+Generated response: "The GameStop FAQ page provides a thorough, organized explanation of services and policies, particularly focusing on its Pro Membership.
 
 Strengths:
 
@@ -83,6 +83,8 @@ Weaknesses:
 Overwhelming detail: For new users, the abundance of fine details (like exclusions and specific policies) might feel overwhelming or confusing.
 Lack of visual aids: The page could benefit from visuals (charts or bullet points) to simplify complex information, such as benefit comparisons or eligibility for discounts.
 Limited focus on general inquiries: The FAQ page is heavily biased toward membership-related questions, leaving a gap in addressing non-membership-related inquiries like product issues or troubleshooting.
-Overall, while the page is effective in addressing specific membership queries, it could improve clarity for casual visitors by streamlining information and adding visuals.
+Overall, while the page is effective in addressing specific membership queries, it could improve clarity for casual visitors by streamlining information and adding visuals."
 
-AI Statement: ChatGPT was used in making this reflective blog.
+My analysis: I find it interesting how the AI pointed out the bias on membership questions like I did when I wrote my reflective blog. One weakness I noted is that the AI recommended using visual aids, which are not typically used for FAQ pages. I also noticed that it claimed the page had "overwhelming detail" as a weakness, which I disagree with, while also listing the page being "detail-oriented" as a strength. It also said that the FAQ both provides information to "handle common issues" while also saying it had a "gap in addressing non-membership-related inquiries". This shows the contradictions that can occur in an AI generated assessment, as it listed something as being both the strength and weakness of the FAQ page.
+
+AI Statement: ChatGPT and spellcheck were used in making this reflective blog.
