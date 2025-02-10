@@ -3,10 +3,10 @@
 # Manual Assessment Memo
 
 **MEMORANDUM**  
-**TO:** Mr. Jakobs
-**FROM:** Arman Khoobehi
-**SUBJECT:** Recomendations for Philips Airfryer XXL HD9656 Manual
-**DATE:**  February 10, 2025
+**TO:** Mr. Jakobs  
+**FROM:** Arman Khoobehi  
+**SUBJECT:** Recomendations for Philips Airfryer XXL HD9656 Manual  
+**DATE:**  February 10, 2025  
 
 I evaluated the manual for the Philips Airfryer XXL HD9656 available at <https://www.philips.com.au/c-p/HD9656_93/premium-airfryer-xxl/support>
 
