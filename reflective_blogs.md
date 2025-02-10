@@ -4,6 +4,7 @@
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
+4. [Reflective Blog 4](#reflective-blog-4)
 
 # Wayback Analysis
 
@@ -60,3 +61,27 @@ AI Statement: No AI was used when in this assignment.
 I chose to explore the FAQ page on the [GameStop website](https://www.gamestop.com/faq/). One of the first issues I noticed is that the first two groups of questions answered were all related to the GameStop Pro reward account. This gives the feeling that the FAQ page is just an advertisement for the service, since it answers those questions instead of any related to problems the customer may have. I also feel that the FAQ is missing many questions that customers would want answered. For example, the FAQ doesn't have any information on cancelling or changing an order after it has been placed. One of the strengths of the page is that it goes over how to redeem each type of virtual currency card available at the store, which could be a common problem for customers since they all require different platforms or websites to redeem them. Overall, I think this FAQ page is not very good becuase it tries to focus too much on pushing the membership service to customers instead of answering important questions that are common among them, failing the many purpose of an FAQ page.
 
 AI Statement: No AI was used when in this assignment.
+
+# Reflective Blog 4
+
+### Prompt : Use any generative AI to generate an assignment (or some other piece of writing) that you have already completed. Share the prompt you used, the results you received, and a brief analysis of the strengths and weaknesses of the software.
+
+For this reflective blog, I decided to use generative AI to generate Reflective Blog 2.
+
+Prompt given: Write an assessment of the Gamestop FAQ page (https://www.gamestop.com/faq/), discussing what its strengths and weaknesses are and why those parts are effective or ineffective.
+
+Generated response: The GameStop FAQ page provides a thorough, organized explanation of services and policies, particularly focusing on its Pro Membership.
+
+Strengths:
+
+Clear organization: Topics like membership benefits, shipping, and returns are grouped logically, which makes navigation easy.
+Detail-oriented: The page provides detailed explanations, especially about Pro membership rewards and their various benefits. This helps users understand the value of the membership.
+Practical FAQs: Information like return windows, point expiration, and how to activate membership ensures customers can handle common issues without needing further assistance.
+Weaknesses:
+
+Overwhelming detail: For new users, the abundance of fine details (like exclusions and specific policies) might feel overwhelming or confusing.
+Lack of visual aids: The page could benefit from visuals (charts or bullet points) to simplify complex information, such as benefit comparisons or eligibility for discounts.
+Limited focus on general inquiries: The FAQ page is heavily biased toward membership-related questions, leaving a gap in addressing non-membership-related inquiries like product issues or troubleshooting.
+Overall, while the page is effective in addressing specific membership queries, it could improve clarity for casual visitors by streamlining information and adding visuals.
+
+AI Statement: ChatGPT was used in making this reflective blog.
