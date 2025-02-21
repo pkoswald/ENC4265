@@ -94,8 +94,10 @@ AI Statement: ChatGPT and spellcheck were used in making this reflective blog.
 
 Prompt: Use NotebookLM to analyze a manual from the web. Share a brief report describing your process, the manual, and your thoughts on the tool. What did it make easier for you? What was not easy? What do you think about the use of this AI for your future career?
 
-I asked NotebookLM to tell me the most important details of the Philips Airfryer XXL User Manual. 
+I think the AI is more helpful for finding where in the manual to get information than for giving you the information. Most of the information it gave me when I asked it to summarize the important points was not very helpful. For example, the "Usage Instructions" it gave me didn't actually provide any instructions and instead listing information like not to fill the pan with oil. When I asked the AI to specifically tell me how to use the air fryer it still had issues, such as not saying to preheat the air fryer and to just put the ingredients into the basket.
 
-I think the AI is more helpful for finding where in the manual to get information than for actually giving you the information. Most of the information it gave me when I asked it to summarize the important points was not very helpful. For example, the "Usage Instructions" it gave me didn't actually provide any instructions, instead listing information like
+However, there are some ways it can be useful. When I asked it how to air fry French fries, it directly gave me excerpts from the manual describing the time and temperature to cook different types of French fries. This shows how this type of AI can be helpful, because it can save time from looking through the whole manual to find out one specific piece of information. Overall, while it has its uses, I do not think I will be using this AI much in the future because I am experienced with how to search through a manual using Ctrl+F to find specific info, and the AI's helpfulness is limited by what it can find in the manual. If I ask it something that isn't already stated in the manual. For example, it didn't give me any particularly useful information when I asked how to make tater tots, which was not in the manual.
+
+AI Statement: NotebookLM and spellcheck were used in making this reflective blog.
 
 
