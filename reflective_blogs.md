@@ -5,6 +5,7 @@
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
+5. [Reflective Blog 5](#reflective-blog-5)
 
 # Wayback Analysis
 
@@ -88,3 +89,13 @@ Overall, while the page is effective in addressing specific membership queries, 
 My analysis: I find it interesting how the AI pointed out the bias on membership questions like I did when I wrote my reflective blog. One weakness I noted is that the AI recommended using visual aids, which are not typically used for FAQ pages. I also noticed that it claimed the page had "overwhelming detail" as a weakness, which I disagree with, while also listing the page being "detail-oriented" as a strength. It also said that the FAQ both provides information to "handle common issues" while also saying it had a "gap in addressing non-membership-related inquiries". This shows the contradictions that can occur in an AI generated assessment, as it listed something as being both the strength and weakness of the FAQ page.
 
 AI Statement: ChatGPT and spellcheck were used in making this reflective blog.
+
+# Reflective Blog 5
+
+Prompt: Use NotebookLM to analyze a manual from the web. Share a brief report describing your process, the manual, and your thoughts on the tool. What did it make easier for you? What was not easy? What do you think about the use of this AI for your future career?
+
+I asked NotebookLM to tell me the most important details of the Philips Airfryer XXL User Manual. 
+
+I think the AI is more helpful for finding where in the manual to get information than for actually giving you the information.
+
+
