@@ -96,6 +96,6 @@ Prompt: Use NotebookLM to analyze a manual from the web. Share a brief report de
 
 I asked NotebookLM to tell me the most important details of the Philips Airfryer XXL User Manual. 
 
-I think the AI is more helpful for finding where in the manual to get information than for actually giving you the information.
+I think the AI is more helpful for finding where in the manual to get information than for actually giving you the information. Most of the information it gave me when I asked it to summarize the important points was not very helpful. For example, the "Usage Instructions" it gave me didn't actually provide any instructions, instead listing information like
 
 
