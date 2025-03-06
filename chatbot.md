@@ -3,3 +3,7 @@
 # Chatbot
 
 <https://box.boodle.ai/a/@ZetaTheon>
+
+I made this chatbot to talk about the Transformers comic series published by Skybound Comics. It has a formal personality. I made it using Boodlebox's chatbot tools.
+
+AI Statement: The chatbox tools from Boodlebox.ai were used to make this assignment.
