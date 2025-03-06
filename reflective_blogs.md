@@ -6,6 +6,7 @@
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
+6. [Reflective Blog 6](#reflective-blog-6)
 
 # Wayback Analysis
 
@@ -100,4 +101,12 @@ However, there are some ways it can be useful. When I asked it how to air fry Fr
 
 AI Statement: NotebookLM and spellcheck were used in making this reflective blog.
 
+# Reflective Blog 6
 
+Prompt: After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
+
+One thing chatbots can do well is helping users access information in a more intuitive way. With a well made chatbot, finding an answer is as easy as asking it a question and getting a specific response to your problem, which a lot of people consider better than having to search through a page for the one part that has the information they need.
+
+One problem is the possibility of the information it gives the user being incorrect. While I was able to get my chatbot to give mostlh accurate information after some trial and error, there were still some questions I asked it where the answer it gave me wasnt accurate. This is a problem because the AI is unable to say that it isn't certain about the answer, so it will parrot wrong information as though it is true. In a customer service use, the chatbot may not be able to provide any answers to a user's question and instead redirect them to a human representative, which makes it useless.
+
+AI Statement: Spellcheck were used in making this reflective blog.
