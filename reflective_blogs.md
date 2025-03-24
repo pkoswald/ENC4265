@@ -7,7 +7,8 @@
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
-
+7. [Reflective Blog 7](#reflective-blog-7)
+   
 # Wayback Analysis
 
 Site Link: <https://web.archive.org/web/19991116095532/http://sonicfoundation.org/>
@@ -93,7 +94,7 @@ AI Statement: ChatGPT and spellcheck were used in making this reflective blog.
 
 # Reflective Blog 5
 
-Prompt: Use NotebookLM to analyze a manual from the web. Share a brief report describing your process, the manual, and your thoughts on the tool. What did it make easier for you? What was not easy? What do you think about the use of this AI for your future career?
+### Prompt: Use NotebookLM to analyze a manual from the web. Share a brief report describing your process, the manual, and your thoughts on the tool. What did it make easier for you? What was not easy? What do you think about the use of this AI for your future career?
 
 I think the AI is more helpful for finding where in the manual to get information than for giving you the information. Most of the information it gave me when I asked it to summarize the important points was not very helpful. For example, the "Usage Instructions" it gave me didn't actually provide any instructions and instead listing information like not to fill the pan with oil. When I asked the AI to specifically tell me how to use the air fryer it still had issues, such as not saying to preheat the air fryer and to just put the ingredients into the basket.
 
@@ -103,7 +104,7 @@ AI Statement: NotebookLM and spellcheck were used in making this reflective blog
 
 # Reflective Blog 6
 
-Prompt: After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
+### Prompt: After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
 
 One thing chatbots can do well is helping users access information in a more intuitive way. With a well-made chatbot, finding an answer is as easy as asking it a question and getting a specific response to your problem, which a lot of people consider better than having to search through a page for the one part that has the information they need. I had to give it a good amount of data to get it to that point however, including several summaries of the characters, plots, locations, and production background of the comic. For large scale projects, this amount of data may be unreasonable to create or obtain for the AI to get to a point where it needs to be.
 
@@ -112,3 +113,7 @@ One problem is the possibility of the information it gives the user being incorr
 Overall, while AI programs like chatbots can be a game changer, they aren't a one size fits all solution. They mostly work best in situations that don't require large amounts of data, such as customer support to solve the most common problems users face. It does not work as well for solving something that requires tons of information, such as a computer problem with many different causes and solutions.
 
 AI Statement: Spellcheck were used in making this reflective blog.
+
+# Reflective Blog 7
+
+### Prompt : Explore an online tutorial, manual, or reference guide/FAQ page. Give it an honest but professional assessment. Describe in your post the aspects of the page(s) that are effective, and explain why. Describe the aspects of the page(s) that are ineffective, and explain why. Keep a professional tone, as though you expect the author(s) of the page(s) to read your post. 
