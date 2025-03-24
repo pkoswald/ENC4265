@@ -11,9 +11,11 @@
 
 ### Table of Contents
 1. [Introduction](#wayback-analysis)
-2. [How to Download Steam](#quick-start-guide)
-3. [Reflective Blog 3](#reflective-blog-3)
-4. [Reflective Blog 4](#reflective-blog-4)
-5. [Reflective Blog 5](#reflective-blog-5)
-6. [Reflective Blog 6](#reflective-blog-6)
-7. [Reflective Blog 7](#reflective-blog-7)
+2. [Downloading Steam](#quick-start-guide)
+3. [Creating an account](#reflective-blog-3)
+4. [Browsing the Storefront](#paragraph1)
+    1. [Using the Queue](#subparagraph1)
+    2. [Using the Wishlist](#subparagraph1)
+6. [Purchasing Games](#reflective-blog-5)
+7. [Reflective Blog 6](#reflective-blog-6)
+8. [Reflective Blog 7](#reflective-blog-7)
