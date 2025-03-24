@@ -2,4 +2,8 @@
 
 # Manual 
 
-## Coming Soon
+
+## How to Start Using Steam
+
+
+### Table of Contents
