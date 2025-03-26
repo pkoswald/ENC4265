@@ -112,10 +112,14 @@ One problem is the possibility of the information it gives the user being incorr
 
 Overall, while AI programs like chatbots can be a game changer, they aren't a one size fits all solution. They mostly work best in situations that don't require large amounts of data, such as customer support to solve the most common problems users face. It does not work as well for solving something that requires tons of information, such as a computer problem with many different causes and solutions.
 
-AI Statement: Spellcheck were used in making this reflective blog.
+AI Statement: Spellcheck was used in making this reflective blog.
 
 # Reflective Blog 7
 
 ### Prompt : Explore an online tutorial, manual, or reference guide/FAQ page. Give it an honest but professional assessment. Describe in your post the aspects of the page(s) that are effective, and explain why. Describe the aspects of the page(s) that are ineffective, and explain why. Keep a professional tone, as though you expect the author(s) of the page(s) to read your post. 
 
 I chose to explore the FAQ page on the [Nintendo Switch website](https://www.nintendo.com/us/switch/faq/). One immediate positive I noticed is how the page splits the FAQ into several sections, such as the different Nintendo Switch models, games and accessories, and the console's Online Service. It makes it much easier for the user to find the information they need.
+
+One negative I noticed is that if the user can't find the information they need on the FAQ page, there's no immediatly clear link to a support page where they would be able to get more help with their issue.
+
+AI Statement: Spellcheck was used in making this reflective blog.
