@@ -17,9 +17,10 @@
     1. [Using the Queue](#subparagraph1)
     2. [Using the Wishlist](#subparagraph1)
 6. [Purchasing Games](#reflective-blog-5)
-   1. [Exploring a Game Page](#subparagraph1)
+    1. [Exploring a Game Page](#subparagraph1)
    2. [Adding Funds to Wallet](#subparagraph1)
 8. [The Library Page](#reflective-blog-6)
 9. [The Community Page](#reflective-blog-7)
 10. [The Profile Page](#placeholder)
     1.[Adding Friends](#subparagraph1)
+11.
