@@ -6,3 +6,5 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mhiqqvucO9I/0.jpg)](https://www.youtube.com/watch?v=mhiqqvucO9I)
   
   *How to get started using Aseprite*
+
+Programs Used to Create this video: Aseprite, Open Broadcaster Software, Adobe Premiere Pro
