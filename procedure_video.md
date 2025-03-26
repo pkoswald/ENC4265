@@ -5,4 +5,4 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mhiqqvucO9I/0.jpg)](https://www.youtube.com/watch?v=mhiqqvucO9I)
   
-  *Figure #3: The button used to detatch the Joy-Con controllers.*
+  *How to get started using Aseprite*
