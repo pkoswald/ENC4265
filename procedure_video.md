@@ -3,7 +3,7 @@
 
 # Procedure Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/btnBUCAKbVQ/0.jpg)](https://www.youtube.com/watch?v=btnBUCAKbVQ)
+[![Image with link to Video Tutorial "How to get started with Aseprite" on Youtube](https://img.youtube.com/vi/btnBUCAKbVQ/0.jpg)](https://www.youtube.com/watch?v=btnBUCAKbVQ)
   
   *How to get started using Aseprite*
 
