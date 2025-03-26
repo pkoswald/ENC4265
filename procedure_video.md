@@ -3,5 +3,4 @@
 
 # Procedure Video
 
-## Coming Soon 
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mhiqqvucO9I/0.jpg)](https://www.youtube.com/watch?v=mhiqqvucO9I)
