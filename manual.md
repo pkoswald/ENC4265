@@ -21,6 +21,5 @@
    2. [Adding Funds to Wallet](#subparagraph1)
 8. [The Library Page](#reflective-blog-6)
 9. [The Community Page](#reflective-blog-7)
-10. [The Profile Page](#placeholder)
-    1.[Adding Friends](#subparagraph1)
-11.
+10. [The Profile Page](#paragraph1)
+    1. [Adding Friends](#subparagraph1)
