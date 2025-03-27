@@ -23,3 +23,8 @@
 9. [The Community Page](#reflective-blog-7)
 10. [The Profile Page](#paragraph1)
     1. [Adding Friends](#subparagraph1)
+
+
+## Introduction
+
+Steam is a platform.
