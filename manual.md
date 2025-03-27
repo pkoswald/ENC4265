@@ -27,4 +27,4 @@
 
 ## Introduction
 
-Steam is a platform.
+Steam is a video game platform and storefront developed for use on computers. It is the most popular game platform for computers, allowing you to buy and play games, communicate and play with friends, engage in communities for your games, and more.
