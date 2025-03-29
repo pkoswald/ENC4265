@@ -11,7 +11,7 @@
 
 ### Table of Contents
 1. [Introduction](#introduction)
-2. [Downloading Steam](#quick-start-guide)
+2. [Downloading Steam](#downloading-steam)
 3. [Creating an account](#reflective-blog-3)
 4. [Browsing the Storefront](#paragraph1)
     1. [Using the Queue](#subparagraph1)
