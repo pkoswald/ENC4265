@@ -42,6 +42,6 @@ Press the green "Install Steam" button on the top right of the webpage
 
 On the installation page, press the large blue "Install Steam" button to downlaod the "SteamSetup" exe file.
 
-![Webpage](/docs/assets/steam-install-page.PNG)
+![Webpage](/docs/assets/steam%20install%20page.PNG)
 *Figure #1: The Steam webpage.*
 
