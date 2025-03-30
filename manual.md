@@ -31,5 +31,5 @@ Steam is a video game platform and storefront developed for use on computers. It
 
 ## Downloading Steam
 
-
+First, you must download Steam.
 
