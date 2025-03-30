@@ -31,7 +31,7 @@ Steam is a video game platform and storefront developed for use on computers. It
 
 ## Downloading Steam
 
-First, you must download Steam. Go the main website for Steam.
+First, you must download Steam. Go to the [main website for Steam](https://store.steampowered.com/).
 ![Webpage](/docs/assets/steamWebpage.png)
 *Figure #1: The Steam webpage.*
 
