@@ -32,6 +32,6 @@ Steam is a video game platform and storefront developed for use on computers. It
 ## Downloading Steam
 
 First, you must download Steam.
-![Attach Joycon](/docs/assets/steam_webpage.jpg)
+![Attach Joycon](/docs/assets/steam-webpage.jpg)
 *Figure #1: Attaching the Joy-Con controllers to the system.*
 
