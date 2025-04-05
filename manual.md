@@ -3,19 +3,19 @@
 # Manual 
 
 
-## How to Start Using Steam on Windows PCs
+# How to Start Using Steam on Windows PCs
 
 
 
 
 
-### Table of Contents
+# Table of Contents
 1. [Introduction](#introduction)
 2. [Downloading Steam](#downloading-steam)
 3. [Creating an account](#creating-an-account)
 4. [Browsing the Storefront](#browsing-the-storefront)
     1. [Using the Wishlist](#subparagraph1)
-6. [Purchasing Games](#reflective-blog-5)
+6. [Purchasing Games](#purchasing-games)
     1. [Exploring a Game Page](#subparagraph1)
    2. [Adding Funds to Wallet](#subparagraph1)
 8. [The Library Page](#reflective-blog-6)
