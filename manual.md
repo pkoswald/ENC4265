@@ -161,4 +161,4 @@ For games that you do have installed, the button is replaced by a large green bu
 
 *Figure #20: A zoom in on the library page, focusing on some of the sorting options.*
 
-At the top of the library page list of games, there are several sorting options
+At the top of the library page list of games, there are several sorting options. The clock icon sorts your games by how recently you played them. The sideways trinagle in a circle icon filters out all games that are not installed on your PC, only showing the games that are. Pressing the three lines icon brings up a more robust set of filtering options, such as only showing single player games or only showing games of a single genre.
