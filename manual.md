@@ -94,7 +94,7 @@ When you log into Steam, you will be taken to the front page of the storefront.
 
 *Figure #10: The Steam Storefront front page.*
 
-From here, you can look around at various games available on the store On the left side of the screen, you can see various search options to more easily browse games and find one you want.
+From here, you can look around at various games available on the store On the left side of the screen, you can see various search options to more easily browse games and find one you want. These options include genres of games, games your friends are playing, new releases, and various other categories.
 
 ![Steam storefront browsing options](/docs/assets/storefrontLeft.PNG)
 
