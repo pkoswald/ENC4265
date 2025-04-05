@@ -90,7 +90,7 @@ Follow the instructions given to create your account, giving an email address, c
 
 When you log into Steam, you will be taken to the front page of the storefront.
 
-![Steam storefront](/docs/assets/storefront.png)
+![Steam storefront](/docs/assets/storefront.PNG)
 
 *Figure #10: The Steam Storefront front page.*
 
