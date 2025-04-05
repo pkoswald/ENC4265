@@ -83,6 +83,6 @@ The next important step in using Steam is creating an account for the service. S
 
 Follow the instructions given to create your account, giving an email address, choosing a username and password, and aggreeing to the terms and conditions.
 
-![Steam account creation page](/docs/acount%20creationPNG)
+![Steam account creation page](/docs/assets/acount%20creationPNG)
 
 *Figure #9: The Steam account creation page.*
