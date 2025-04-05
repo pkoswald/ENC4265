@@ -138,3 +138,27 @@ Once you are viewing the shopping cart, press the "Continue to payment" button t
 On the payment information page, you can choose to either pay for your purchase with funds that are already in your steam wallet, or to use a direct payment option such as a credit card. Fill in your payment and billing information and then press "Continue" to finish your purchase. Once you have purchased a game, it will appear in your Steam library.
 
 ## The Library Page
+
+![Steam top bar](/docs/assets/libraryBar.PNG)
+
+*Figure #17: The Library link on the top bar of Steam.*
+
+The Steam library page is where you can view all of your purchased games, manage them, and start them. To access the Library page, press the "Library" link on the top bar of Steam.
+
+![Library page](/docs/assets/library.PNG)
+
+*Figure #18: The Library page of Steam.*
+
+Here, you can see a list of all the games you own on the service. Games with a solid white title are installed on your PC, while games with a gray title are not currently installed. Clicking on a game shows you a page for it, allowing you to see information such as how many achievements you have, how long you've played it, and how much space it takes up on your PC. On games you haven't installed, a large blue button that says "Install" appears. To install the game on your pc, simply click on the button.
+
+![Library page zoom in](/docs/assets/playButton.PNG)
+
+*Figure #19: A zoom in on a game's page in your library.*
+
+For games that you do have installed, the button is replaced by a large green button that says "Play." Click on this button to launch the selected game.
+
+![library page sorting options](/docs/assets/library2.PNG)
+
+*Figure #20: A zoom in on the library page, focusing on some of the sorting options.*
+
+At the top of the library page list of games, there are several sorting options
