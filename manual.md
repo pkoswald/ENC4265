@@ -47,3 +47,12 @@ On the installation page, press the large blue "Install Steam" button to downlao
 
 Once the executible file has been downloaded to your PC, double click on it to open it.
 
+![Steam install application 1](/docs/assets/steam%20setup%201.PNG)
+*Figure #4: The Steam installation page.*
+
+![Steam install application 2](/docs/assets/setup2.PNG)
+*Figure #5: The Steam installation page.*
+
+![Steam install application 3](/docs/assets/setup%203.PNG)
+*Figure #6: The Steam installation page.*
+
