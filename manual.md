@@ -13,7 +13,7 @@
 1. [Introduction](#introduction)
 2. [Downloading Steam](#downloading-steam)
 3. [Creating an account](#creating-an-account)
-4. [Browsing the Storefront](#paragraph1)
+4. [Browsing the Storefront](#browsing-the-storefront)
     1. [Using the Queue](#subparagraph1)
     2. [Using the Wishlist](#subparagraph1)
 6. [Purchasing Games](#reflective-blog-5)
@@ -86,3 +86,9 @@ Follow the instructions given to create your account, giving an email address, c
 ![Steam account creation page](/docs/assets/acount%20creation.PNG)
 
 *Figure #9: The Steam account creation page.*
+
+## Browsing the Storefront
+
+When you log into Steam, you will be taken to the storefront.
+
+
