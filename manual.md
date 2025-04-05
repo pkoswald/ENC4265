@@ -14,7 +14,7 @@
 2. [Downloading Steam](#downloading-steam)
 3. [Creating an account](#creating-an-account)
 4. [Browsing the Storefront](#browsing-the-storefront)
-    1. [Using the Queue](#subparagraph1)
+    1. [Using the Queue](#using-the-queue)
     2. [Using the Wishlist](#subparagraph1)
 6. [Purchasing Games](#reflective-blog-5)
     1. [Exploring a Game Page](#subparagraph1)
@@ -91,4 +91,5 @@ Follow the instructions given to create your account, giving an email address, c
 
 When you log into Steam, you will be taken to the storefront.
 
+# Using the Queue
 
