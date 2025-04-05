@@ -88,7 +88,12 @@ Follow the instructions given to create your account, giving an email address, c
 
 ## Browsing the Storefront
 
-When you log into Steam, you will be taken to the storefront.
+When you log into Steam, you will be taken to the front page of the storefront.
+
+![Steam storefront](/docs/assets/storefront.png)
+
+*Figure #10: The Steam Storefront front page.*
+
 
 ### Using the Queue
 
