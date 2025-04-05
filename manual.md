@@ -16,7 +16,7 @@
 4. [Browsing the Storefront](#browsing-the-storefront)
 6. [Purchasing Games](#purchasing-games)
     1. [Exploring the Game Page](#exploring-the-game-page)
-   2. [Adding Funds to Wallet](#subparagraph1)
+   2. [Using the Shopping Cart](#using-the-shopping-cart)
 8. [The Library Page](#reflective-blog-6)
 
 
@@ -122,3 +122,11 @@ If you wish buy the game, push the large green "Add to Cart" button to add the g
 *Figure #14: The pop-up when adding a game to the cart.*
 
 A pop-up will appear and you can choose to either "Continue Shopping" if you wish to buy more games, or choose to "View My Cart" if you are ready to checkout.
+
+### Using the Shopping Cart
+
+![The shopping cart](/docs/assets/cart.PNG)
+
+*Figure #15: The Steam Shopping cart.*
+
+Once you are viewing the shopping cart, press the "Continue to payment" button to begin your purchase.
