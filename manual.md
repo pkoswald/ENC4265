@@ -102,7 +102,24 @@ From here, you can look around at various games available on the store On the le
 When you find a game you would like to purchase, simply click on it's icon on the store front to be brought to the game's store page.
 
 ### Exploring the Game Page
+Every game available for purchase on Steam has a game page where you can purchase it.
 
 ![The Persona 3 Reload Game Page](/docs/assets/gamePage.PNG)
 
 *Figure #12: The game page for Persona 3 Reload.*
+
+ You can choose to add it to your wishlist, follow the game to get notified when it recieves updates or news, or ignore it to avoid seeing it on your front page. You can also see reviews for the product, games you own that it is similar to, and tags associated with it to find other similar games.
+
+ By scrolling down and looking at the right side of the page you can see more game information. This includes controller support, if the game is multiplayer, and what languages it supports.
+
+![The Persona 3 Reload Game Page Information](/docs/assets/gamePage2.PNG)
+
+*Figure #13: The game page for Persona 3 Reload, showing technical information for the game.*
+
+If you wish buy the game, push the large green "Add to Cart" button to add the game to your cart. 
+
+![The Cart Pop-Up](/docs/assets/buyGame.PNG)
+
+*Figure #14: The pop-up when adding a game to the cart.*
+
+A pop-up will appear and you can choose to either "Continue Shopping" if you wish to buy more games, or choose to "View My Cart" if you are ready to checkout.
