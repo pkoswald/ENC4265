@@ -38,11 +38,13 @@ First, you must download Steam. Go to the [main website for Steam](https://store
 Press the green "Install Steam" button on the top right of the webpage
 
 ![Install Steam Button](/docs/assets/installButton.png)
+
 *Figure #2: The "Install Steam" button.*
 
 On the installation page, press the large blue "Install Steam" button to downlaod the "SteamSetup" exe file.
 
 ![Webpage](/docs/assets/steam%20install%20page.PNG)
+
 *Figure #3: The Steam installation page.*
 
 Once the executible file has been downloaded to your PC, double click on it to open it.
@@ -50,16 +52,19 @@ Once the executible file has been downloaded to your PC, double click on it to o
 When the setup application opens up, click "Next".
 
 ![Steam install application 1](/docs/assets/steam%20setup%201.PNG)
+
 *Figure #4: The first page of the Steam Setup Application.*
 
 On the next page, chooose the language you wish to use.
 
 ![Steam install application 2](/docs/assets/setup2.PNG)
+
 *Figure #5: The second page of the Steam Setup Application.*
 
 On the next page, choose where you want Steam to be downloaded to. You can keep it as the default if you wish, or you can choose another file destination on your PC.
 
 ![Steam install application 3](/docs/assets/setup%203.PNG)
+
 *Figure #6: The third page of the Steam Setup Application.*
 
 Once Steam has finished installing, click the "Run Steam" checkbox to enable it and click on "Finish".
