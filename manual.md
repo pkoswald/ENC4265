@@ -12,7 +12,7 @@
 ### Table of Contents
 1. [Introduction](#introduction)
 2. [Downloading Steam](#downloading-steam)
-3. [Creating an account](#reflective-blog-3)
+3. [Creating an account](#creating-an-account)
 4. [Browsing the Storefront](#paragraph1)
     1. [Using the Queue](#subparagraph1)
     2. [Using the Wishlist](#subparagraph1)
@@ -70,5 +70,7 @@ On the next page, choose where you want Steam to be downloaded to. You can keep 
 Once Steam has finished installing, click the "Run Steam" checkbox to enable it and click on "Finish".
 
 ![Steam install application 4](/docs/assets/setup4.PNG)
-*Figure #7: The fourth page of the Steam Setup Application.*
 
+*Figure #7: The final page of the Steam Setup Application.*
+
+## Creating an Account
