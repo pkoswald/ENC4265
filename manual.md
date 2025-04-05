@@ -104,3 +104,7 @@ From here, you can look around at various games available on the store On the le
 When you find a game you would like to purchase, simply click on it's icon on the store front to be brought to the game's store page.
 
 ### Exploring the Game Page
+
+![The Persona 3 Reload Game Page](/docs/assets/gamePage.PNG)
+
+*Figure #12: The game page for Persona 3 Reload.*
