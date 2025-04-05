@@ -14,7 +14,6 @@
 2. [Downloading Steam](#downloading-steam)
 3. [Creating an account](#creating-an-account)
 4. [Browsing the Storefront](#browsing-the-storefront)
-    1. [Using the Wishlist](#subparagraph1)
 6. [Purchasing Games](#purchasing-games)
     1. [Exploring the Game Page](#exploring-the-game-page)
    2. [Adding Funds to Wallet](#subparagraph1)
