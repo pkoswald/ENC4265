@@ -16,7 +16,7 @@
 4. [Browsing the Storefront](#browsing-the-storefront)
     1. [Using the Wishlist](#subparagraph1)
 6. [Purchasing Games](#purchasing-games)
-    1. [Exploring a Game Page](#subparagraph1)
+    1. [Exploring the Game Page](#exploring-the-game-page)
    2. [Adding Funds to Wallet](#subparagraph1)
 8. [The Library Page](#reflective-blog-6)
 9. [The Profile Page](#paragraph1)
@@ -98,3 +98,9 @@ From here, you can look around at various games available on the store On the le
 ![Steam storefront browsing options](/docs/assets/storefrontLeft.PNG)
 
 *Figure #11: The browsing options on the storefront.*
+
+## Purchasing a Game
+
+When you find a game you would like to purchase, simply click on it's icon on the store front to be brought to the game's store page.
+
+### Exploring the Game Page
