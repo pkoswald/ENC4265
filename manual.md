@@ -17,7 +17,7 @@
 6. [Purchasing Games](#purchasing-games)
     1. [Exploring the Game Page](#exploring-the-game-page)
    2. [Using the Shopping Cart](#using-the-shopping-cart)
-8. [The Library Page](#reflective-blog-6)
+8. [The Library Page](#the-library-page)
 
 
 ## Introduction
@@ -130,3 +130,11 @@ A pop-up will appear and you can choose to either "Continue Shopping" if you wis
 *Figure #15: The Steam Shopping cart.*
 
 Once you are viewing the shopping cart, press the "Continue to payment" button to begin your purchase.
+
+![payment information page](/docs/assets/checkout.PNG)
+
+*Figure #16: The Steam payment page.*
+
+On the payment information page, you can choose to either pay for your purchase with funds that are already in your steam wallet, or to use a direct payment option such as a credit card. Fill in your payment and billing information and then press "Continue" to finish your purchase. Once you have purchased a game, it will appear in your Steam library.
+
+## The Library Page
