@@ -19,8 +19,6 @@
     1. [Exploring the Game Page](#exploring-the-game-page)
    2. [Adding Funds to Wallet](#subparagraph1)
 8. [The Library Page](#reflective-blog-6)
-9. [The Profile Page](#paragraph1)
-    1. [Adding Friends](#subparagraph1)
 
 
 ## Introduction
