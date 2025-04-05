@@ -20,8 +20,7 @@
     1. [Exploring a Game Page](#subparagraph1)
    2. [Adding Funds to Wallet](#subparagraph1)
 8. [The Library Page](#reflective-blog-6)
-9. [The Community Page](#reflective-blog-7)
-10. [The Profile Page](#paragraph1)
+9. [The Profile Page](#paragraph1)
     1. [Adding Friends](#subparagraph1)
 
 
