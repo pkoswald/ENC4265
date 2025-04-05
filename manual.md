@@ -91,5 +91,5 @@ Follow the instructions given to create your account, giving an email address, c
 
 When you log into Steam, you will be taken to the storefront.
 
-# Using the Queue
+### Using the Queue
 
