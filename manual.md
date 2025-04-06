@@ -36,13 +36,13 @@ Press the green "Install Steam" button on the top right of the webpage
 
 *Figure #2: The "Install Steam" button.*
 
-On the installation page, press the large blue "Install Steam" button to downlaod the "SteamSetup" exe file.
+On the installation page, press the large blue "Install Steam" button to download the "SteamSetup" exe file.
 
 ![Webpage](/docs/assets/steam%20install%20page.PNG)
 
 *Figure #3: The Steam installation page.*
 
-Once the executible file has been downloaded to your PC, double click on it to open it.
+Once the executable file has been downloaded to your PC, double click on it to open it.
 
 When the setup application opens up, click "Next".
 
@@ -50,7 +50,7 @@ When the setup application opens up, click "Next".
 
 *Figure #4: The first page of the Steam Setup Application.*
 
-On the next page, chooose the language you wish to use.
+On the next page, choose the language you wish to use.
 
 ![Steam install application 2](/docs/assets/setup2.PNG)
 
@@ -72,11 +72,11 @@ Once Steam has finished installing, click the "Run Steam" checkbox to enable it 
 
 The next important step in using Steam is creating an account for the service. Start Steam and choose the "Create a Free Account" link.
 
-![Steam startinig up for the first time](/docs/assets/steamStart.PNG)
+![Steam starting up for the first time](/docs/assets/steamStart.PNG)
 
 *Figure #8: The pop up when starting Steam for the first time.*
 
-Follow the instructions given to create your account, giving an email address, choosing a username and password, and aggreeing to the terms and conditions.
+Follow the instructions given to create your account, giving an email address, choosing a username and password, and agreeing to the terms and conditions.
 
 ![Steam account creation page](/docs/assets/acount%20creation.PNG)
 
@@ -107,7 +107,7 @@ Every game available for purchase on Steam has a game page where you can purchas
 
 *Figure #12: The game page for Persona 3 Reload.*
 
- You can choose to add it to your wishlist, follow the game to get notified when it recieves updates or news, or ignore it to avoid seeing it on your front page. You can also see reviews for the product, games you own that it is similar to, and tags associated with it to find other similar games.
+ You can choose to add it to your wishlist, follow the game to get notified when it receives updates or news, or ignore it to avoid seeing it on your front page. You can also see reviews for the product, games you own that it is similar to, and tags associated with it to find other similar games.
 
  By scrolling down and looking at the right side of the page you can see more game information. This includes controller support, if the game is multiplayer, and what languages it supports.
 
@@ -161,4 +161,6 @@ For games that you do have installed, the button is replaced by a large green bu
 
 *Figure #20: A zoom in on the library page, focusing on some of the sorting options.*
 
-At the top of the library page list of games, there are several sorting options. The clock icon sorts your games by how recently you played them. The sideways trinagle in a circle icon filters out all games that are not installed on your PC, only showing the games that are. Pressing the three lines icon brings up a more robust set of filtering options, such as only showing single player games or only showing games of a single genre.
+At the top of the library page list of games, there are several sorting options. The clock icon sorts your games by how recently you played them. The sideways triangle in a circle icon filters out all games that are not installed on your PC, only showing the games that are. Pressing the three lines icon brings up a more robust set of filtering options, such as only showing single player games or only showing games of a single genre.
+
+AI Statement: I used spellcheck when writing this assignment.
