@@ -18,6 +18,8 @@
     1. [Exploring the Game Page](#exploring-the-game-page)
    2. [Using the Shopping Cart](#using-the-shopping-cart)
 8. [The Library Page](#the-library-page)
+9. [The Profile Page](#the-profile-page)
+    1. [Adding Friends](#adding-friends)
 
 
 ## Introduction
