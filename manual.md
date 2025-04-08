@@ -18,8 +18,6 @@
     1. [Exploring the Game Page](#exploring-the-game-page)
    2. [Using the Shopping Cart](#using-the-shopping-cart)
 8. [The Library Page](#the-library-page)
-9. [The Profile Page](#the-profile-page)
-    1. [Adding Friends](#adding-friends)
 
 
 ## Introduction
@@ -165,9 +163,6 @@ For games that you do have installed, the button is replaced by a large green bu
 
 At the top of the library page list of games, there are several sorting options. The clock icon sorts your games by how recently you played them. The sideways triangle in a circle icon filters out all games that are not installed on your PC, only showing the games that are. Pressing the three lines icon brings up a more robust set of filtering options, such as only showing single player games or only showing games of a single genre.
 
-## The Profile Page
-
-### Adding Friends
 
 
 AI Statement: I used spellcheck when writing this assignment.
