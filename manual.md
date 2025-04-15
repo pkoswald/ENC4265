@@ -22,19 +22,20 @@
 
 ## Introduction
 
-Steam is a video game platform and storefront developed for use on computers. It is the most popular game platform for computers, allowing you to buy and play games, communicate and play with friends, engage in communities for your games, and more.
+Steam is a video game platform and storefront developed for use on computers. It is the most popular game platform for computers, allowing you to buy and play games, communicate and play with friends, engage in communities for your games, and more. Many games are only available on the service, icluding some of the most popular games available for computers. It also frequently features heavy sales for the games avaible on the service. If you are interested in gaming on a computer, Steam is an absolute necessity.
 
 ## Downloading Steam
 
 First, you must download Steam. Go to the [main website for Steam](https://store.steampowered.com/).
+
 ![Steam Webpage](/docs/assets/steamWebpage.png)
-*Figure #1: The Steam webpage.*
+*Figure #1: The front page of the Steam website.*
 
 Press the green "Install Steam" button on the top right of the webpage.
 
 ![Install Steam Button](/docs/assets/installButton.png)
 
-*Figure #2: The "Install Steam" button.*
+*Figure #2: The "Install Steam" button on the front page.*
 
 On the installation page, press the large blue "Install Steam" button to download the "SteamSetup" exe file.
 
@@ -70,7 +71,7 @@ Once Steam has finished installing, click the "Run Steam" checkbox to enable it 
 
 ## Creating an Account
 
-The next important step in using Steam is creating an account for the service. Start Steam and choose the "Create a Free Account" link.
+The next important step in using Steam is creating an account for the service. Before you can use Steam, you must create an account for the service, to which all of your purchases on the store will be linked to. Start Steam and choose the "Create a Free Account" link.
 
 ![Steam starting up for the first time](/docs/assets/steamStart.PNG)
 
@@ -90,26 +91,26 @@ When you log into Steam, you will be taken to the front page of the storefront.
 
 *Figure #10: The Steam Storefront front page. This is what will appear when you log into Steam for the first time.*
 
-From here, you can look around at various games available on the store On the left side of the screen, you can see various search options to more easily browse through the many available games and find one you want. These options include genres of games, games your friends are playing, new releases, and various other categories.
+From here, you can look around at various games available on the store On the left side of the screen, you can see various search options to more easily browse through the many available games and find one you want. These options include genres of games, games that your friends are playing, new releases, and various other categories.
 
 ![Steam storefront browsing options](/docs/assets/storefrontLeft.PNG)
 
-*Figure #11: The browsing options on the storefront.*
+*Figure #11: The browsing options on the storefront. These appear on the left side of the screen after scrolling down a bit.*
 
 ## Purchasing a Game
 
-When you find a game you would like to purchase, simply click on it's icon on the store front to be brought to the game's store page.
+When you find a game you would like to purchase, you can do so easily right on Steam. First, click on the desired game's icon on the store front to be brought to the game's store page.
 
 ### Exploring the Game Page
-Every game available for purchase on Steam has a game page where you can purchase it.
+Every game available for purchase on Steam has a game page where you can purchase it. This page features information about the game so you can learn more about it before deciding to purchase it.
 
 ![The Persona 3 Reload Game Page](/docs/assets/gamePage.PNG)
 
 *Figure #12: The game page for Persona 3 Reload.*
 
- You can choose to add it to your wishlist, follow the game to get notified when it receives updates or news, or ignore it to avoid seeing it on your front page. You can also see reviews for the product, games you own that it is similar to, and tags associated with it to find other similar games.
+You can choose to add it to your wishlist, follow the game to get notified when it receives updates or news, or ignore it to avoid seeing it on your front page. You can also see reviews for the product, games you own that it is similar to, and tags associated with it to find other similar games.
 
- By scrolling down and looking at the right side of the page you can see more game information. This includes controller support, if the game is multiplayer, and what languages it supports.
+By scrolling down and looking at the right side of the page you can see more game information. This includes controller support, if the game is multiplayer, and what languages it supports.
 
 ![The Persona 3 Reload Game Page Information](/docs/assets/gamePage2.PNG)
 
@@ -124,6 +125,8 @@ If you wish buy the game, push the large green "Add to Cart" button to add the g
 A pop-up will appear and you can choose to either "Continue Shopping" if you wish to buy more games, or choose to "View My Cart" if you are ready to checkout.
 
 ### Using the Shopping Cart
+
+The Steam shopping cart is how you complete your purchases on Steam.
 
 ![The shopping cart](/docs/assets/cart.PNG)
 
@@ -143,7 +146,7 @@ On the payment information page, you can choose to either pay for your purchase 
 
 *Figure #17: The Library link on the top bar of Steam.*
 
-The Steam library page is where you can view all of your purchased games, manage them, and start them. To access the Library page, press the "Library" link on the top bar of Steam.
+The Steam library page is where you can view all of your purchased games, manage them, and start playing them. To access the Library page, press the "Library" link on the top bar of Steam.
 
 ![Library page](/docs/assets/library.PNG)
 
