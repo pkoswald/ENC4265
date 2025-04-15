@@ -30,7 +30,7 @@ First, you must download Steam. Go to the [main website for Steam](https://store
 ![Steam Webpage](/docs/assets/steamWebpage.png)
 *Figure #1: The Steam webpage.*
 
-Press the green "Install Steam" button on the top right of the webpage
+Press the green "Install Steam" button on the top right of the webpage.
 
 ![Install Steam Button](/docs/assets/installButton.png)
 
@@ -40,7 +40,7 @@ On the installation page, press the large blue "Install Steam" button to downloa
 
 ![Webpage](/docs/assets/steam%20install%20page.PNG)
 
-*Figure #3: The Steam installation page.*
+*Figure #3: The Steam installation page on the website.*
 
 Once the executable file has been downloaded to your PC, double click on it to open it.
 
@@ -88,9 +88,9 @@ When you log into Steam, you will be taken to the front page of the storefront.
 
 ![Steam storefront](/docs/assets/storefront.PNG)
 
-*Figure #10: The Steam Storefront front page.*
+*Figure #10: The Steam Storefront front page. This is what will appear when you log into Steam for the first time.*
 
-From here, you can look around at various games available on the store On the left side of the screen, you can see various search options to more easily browse games and find one you want. These options include genres of games, games your friends are playing, new releases, and various other categories.
+From here, you can look around at various games available on the store On the left side of the screen, you can see various search options to more easily browse through the many available games and find one you want. These options include genres of games, games your friends are playing, new releases, and various other categories.
 
 ![Steam storefront browsing options](/docs/assets/storefrontLeft.PNG)
 
